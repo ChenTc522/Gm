@@ -38,7 +38,7 @@
             <center><img src="./PixPin_2026-02-25_11-07-27.png" width=300px><br/></center>
                         <br/>
             <h3 style="font-weight: bold; color: red;">【步骤1】打开 豆音 扫一扫（增加一次改名次数）,先操作步骤123，好了发豆音号我去确认。</h3>
-            <h3 style="font-weight: bold; color: red;">【步骤2】现在【等基础审核】期间不要修改资料，不然会重置审核,等步骤6不提示审核中后，进行改名提交。</h3>
+            <h3 style="font-weight: bold; color: red;">【步骤2】【等基础审核】期间不要修改资料，不然会重置审核,等步骤6不提示审核中后，进行改名提交。</h3>
             （亲，如果提交还是提示已修改4次，按照下面蓝色字体说明，进行操作改名。）
             <div style="font-weight: bold; color: blue">
 				<a href="https://www.douyin.com/jingxuan?is_from_mobile_home=1">https://www.douyin.com/jingxuan?is_from_mobile_home=1</a>
